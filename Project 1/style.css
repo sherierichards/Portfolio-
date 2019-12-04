@@ -1,0 +1,44 @@
+.logo {
+  padding-top: 20px;
+}
+
+.logo img {
+  max-width: 70px;
+}
+
+header {
+  display: grid;
+  grid-template-columns: auto auto;
+  height: 100px;
+  margin-bottom: 25px;
+  border-bottom: 3px solid #7d97ad;
+  border-bottom-style: 10px;
+}
+
+.header-name {
+  font-size: 3em;
+  text-transform: uppercase;
+  float: right;
+  text-align: right;
+}
+
+body {
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 150px;
+  margin-bottom: 100px;
+}
+main img {
+  float: right;
+  width: 75%;
+}
+
+/* Create three equal columns that floats next to each other */
+.col-sm-3 {
+  float: right;
+  width: 30%;
+}
+
+.Featured_work {
+  text-align: center;
+}
